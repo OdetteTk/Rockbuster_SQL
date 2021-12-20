@@ -1,2 +1,2 @@
 # Rockbuster_SQL
-SQL project querying Rockbuster's database to answer business queries
+SQL project querying Rockbuster's database to answer ad hoc business queries
